@@ -1,5 +1,6 @@
 package com.example.demo.Model;
 
+import com.example.demo.Model.Curriculum;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
